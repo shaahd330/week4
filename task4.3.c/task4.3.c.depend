@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675959356 source:c:\users\nv_user\documents\codeblocks\task4.3.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
